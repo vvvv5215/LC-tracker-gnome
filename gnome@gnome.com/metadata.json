@@ -1,7 +1,7 @@
 {
-    "name": "LeetCode Panel",
-    "description": "Displays daily LeetCode solved count with system info",
-    "uuid": "example@example.com",
+    "name": "LeetCode Tracker",
+    "description": "Displays Leetcode Problems all time and weekly count",
+    "uuid": "gnome@gnome.com",
     "shell-version": [
         "48.1",
         "48",
@@ -9,6 +9,6 @@
         "46"
     ],
     "version": 1,
-    "url": "https://github.com/vvvv5215/gnome-leetcode-tracker",
+    "url": "https://github.com/vvvv5215/LC-tracker-gnome",
     "settings-schema": "org.gnome.shell.extensions.leetcode-panel"
 }
