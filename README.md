@@ -3,7 +3,7 @@
 I've made a simple GNOME extension which keeps a count of your all time leetcode problem count and weekly leetcode problem count in your shell! (Note that it only works on gnome versions after 45 )
 
 
-## MAKE SURE THAT YOUR THAT : the uuid and the name of the folder is same, do not change the name of the folder! and if you are changing it, change the uui in the metadata.json file too!
+## MAKE SURE THAT YOUR THAT : the uuid and the name of the folder is same, do not change the name of the folder! and if you are changing it, change the uuid in the metadata.json file too!
 
 ## How to run it:
  1) Download the folder as a zip file.
