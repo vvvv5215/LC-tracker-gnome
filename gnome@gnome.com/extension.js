@@ -1,3 +1,4 @@
+// imports
 import GLib from 'gi://GLib';
 import Gio from 'gi://Gio';
 import St from 'gi://St';
@@ -23,7 +24,7 @@ function getLeetCodeStats() {
                 }
             `,
             variables: {
-                username: "Vishwanth_V"
+                username: "LeetCode_Username" // enter your leetcode username here! by replacing it
             }
         });
 
