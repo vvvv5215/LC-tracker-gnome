@@ -28,3 +28,6 @@ change the colours here however you see fit!
 ## If you wanna uninstall it:
 Go the path where you placed the folder and delete it from there, or just remove it from the extension manager.
 
+## Features which I may add later:
+Show easy, medium, hard on hover and submission percentage but that's for another day!
+
