@@ -8,7 +8,7 @@
 }
 
 .leetcode-label {
-    font: menu; /* Use Adwaita menu font */
+    font: menu; 
     padding: 0 2px;
 }
 
@@ -17,7 +17,7 @@
 }
 
 .leetcode-value {
-    color: #facc15; /* Yellow */
+    color: #facc15; 
 }
 
 .leetcode-divider {
