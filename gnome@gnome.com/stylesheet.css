@@ -1,0 +1,32 @@
+.panel-button {
+    -natural-hpadding: 8px;
+    -minimum-hpadding: 4px;
+}
+
+.stats-container {
+    spacing: 4px;
+}
+
+.leetcode-label {
+    font: menu; /* Use Adwaita menu font */
+    padding: 0 2px;
+}
+
+.leetcode-heading {
+    color: black;
+}
+
+.leetcode-value {
+    color: #facc15; /* Yellow */
+}
+
+.leetcode-divider {
+    color: rgba(0, 0, 0, 0.3);
+    padding: 0 4px;
+}
+
+.leetcode-error {
+    font: menu;
+    color: rgba(255, 165, 0, 0.9);
+}
+
