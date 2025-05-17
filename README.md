@@ -12,7 +12,7 @@ I've made a simple GNOME extension which keeps a count of your all time leetcode
 ![image](https://github.com/user-attachments/assets/5d7ffd4e-23d3-44bb-a1a6-47ea37972574)
 
  4) Open your files app and press ctrl + H, to access hidden files.
- 5) Place your folder in the following path:
+ 5) Place the gnome@gnome.com folder in the following path:
 ![image](https://github.com/user-attachments/assets/9da27852-54d6-4923-bd46-9b6b3d75d464)
 
 6) If you are on Wayland, log out and log in back, if on X11, alt + f2, type r and enter.
